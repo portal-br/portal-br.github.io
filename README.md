@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+# Portal-BR - Grupos de estudos
+Este é o *Portal-BR - Grupos de estudos*, uma iniciativa para disseminar o conhecimento em Tecnologia da Informação e afins.
 
-You can use the [editor on GitHub](https://github.com/portal-br/portal-br.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Aqui você encontra informações importantes sobre o projeto [Portal-BR - Grupos de estudos](https://www.facebook.com/groups/686160095156385/).
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Lista dos nossos grupos de estudo
 
-```markdown
-Syntax highlighted code block
+Esses são os links dos nossos diversos grupos de estudo no *Portal-BR - Grupos de estudos*.
+Nosso propósito é disseminar o conhecimento atuando de forma voluntária e gratuita, 
+aproveitando o melhor que a internet pode nos proporcionar. 
 
-# Header 1
-## Header 2
-### Header 3
+**Bons estudos!!!**
 
-- Bulleted
-- List
+- Portal-BR - Grupos de estudos (Principal grupo do projeto Portal-BR).
+> https://www.facebook.com/groups/686160095156385/
 
-1. Numbered
-2. List
+- Computadores-BR:
+> https://web.facebook.com/groups/256622045000747/
 
-**Bold** and _Italic_ and `Code` text
+- Emacs-BR:
+> https://web.facebook.com/groups/363760494222521/
 
-[Link](url) and ![Image](src)
-```
+- Física-BR:
+> https://web.facebook.com/groups/328727274528271/
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- GNU-BR:
+> https://www.facebook.com/groups/639504229778635/
 
-### Jekyll Themes
+- Hacking-BR:
+> https://web.facebook.com/groups/250164319047897/
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/portal-br/portal-br.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Hardware-BR: 
+> https://www.facebook.com/groups/312406906242602/
 
-### Support or Contact
+- Linux-BR:
+> https://web.facebook.com/groups/959344597555388/
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Math-BR:
+> https://web.facebook.com/groups/254349098533699
+
+- Programadores-BR:
+> https://web.facebook.com/groups/455490374854570/
+
+- Unix-BR - Grupo de estudos: 
+> https://www.facebook.com/groups/1511003425865588/
+
+- Windows-BR - Grupo de Estudos
+> https://www.facebook.com/groups/2267116043601384/
+
+
+**Conheçam, compartilhem, chamem seus amigos.**
+
+E vamos que vamos, a cada dia mais um aprendizado.
+
+**Portal-BR | Os administradores **
