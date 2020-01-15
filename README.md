@@ -1,17 +1,20 @@
 # Portal-BR - Grupos de estudos
 Este é o *Portal-BR - Grupos de estudos*, uma iniciativa para disseminar o conhecimento em Tecnologia da Informação e afins.
 
+Nosso propósito é prover a inclusão e desenvolvimento de adeptos do software livre através do uso de ferramentas gratuitas existentes atualmente e instigar a troca de conhecimentos no formato voluntário. Há também o propósito de termos grupos específicos com foco mais intenso e aprofundado no caráter de assinaturas mensais e doações.
 
 Aqui você encontra informações importantes sobre o projeto [Portal-BR - Grupos de estudos](https://www.facebook.com/groups/686160095156385/).
 
 
-## Lista dos nossos grupos de estudo
+## Participe
 
-Esses são os links dos nossos diversos grupos de estudo no *Portal-BR - Grupos de estudos*.
-Nosso propósito é disseminar o conhecimento atuando de forma voluntária e gratuita, 
-aproveitando o melhor que a internet pode nos proporcionar. 
+Junte-se conosco nos diversos grupos e participe deste propósito de disseminar o conhecimento, podendo iniciar de forma voluntária e gratuita,ou por meio de assinatura mensal, aproveitando o melhor que a internet pode nos proporcionar, o alcance de novos horizontes.
 
 **Bons estudos!!!**
+
+## Links Facebook
+
+Esses são os links dos nossos diversos grupos de estudo no *[Portal-BR - Grupos de estudos](https://www.facebook.com/groups/686160095156385/)*.
 
 - Portal-BR - Grupos de estudos (Principal grupo do projeto Portal-BR).
 > [Portal-BR - Grupos de estudos](https://www.facebook.com/groups/686160095156385/)
@@ -49,8 +52,24 @@ aproveitando o melhor que a internet pode nos proporcionar.
 - Windows-BR
 > [Windows-BR - Grupo de Estudos](https://www.facebook.com/groups/2267116043601384/)
 
+## Links Telegram
 
-**Conheçam, compartilhem, chamem seus amigos.**
+- Programadores-BR:
+> [Programadores-BR - Grupo de estudos](https://t.me/programadores_br)
+
+- Hacking-BR:
+> [Hacking-BR - Grupo de estudos](https://t.me/hackbr)
+
+- Linux-BR:
+> [Linux-BR - Grupo de estudos](https://t.me/linuxgrupo)
+
+- GNU-BR:
+> [GNU-BR - Grupo de estudos](https://t.me/joinchat/LYpp81NGIJY0pJUZKMWKEA)
+
+- Emacs-BR:
+> [Emacs-BR - Grupo de estudos](https://t.me/emacswiki)
+
+**Conheça, compartilhe, chame seus amigos.**
 
 E vamos que vamos, a cada dia mais um aprendizado.
 
