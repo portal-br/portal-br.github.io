@@ -5,7 +5,7 @@ import Timeline from './components/Timeline';
 import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.css';
 import './static/efect.css';
-import './static/efect'
+import './static/efect.js'
 
 ReactDOM.render(
   <React.StrictMode>
