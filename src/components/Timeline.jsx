@@ -2,8 +2,6 @@ import 'bootstrap/dist/css/bootstrap.css';
 import '../static/timeline.css';
 import React from 'react';
 
-
-
 const groupsFacebook = [
 
     {id:1,name:"Portal-BR",address:"https://www.facebook.com/groups/686160095156385/"},
@@ -29,8 +27,6 @@ const groupsTelegram = [
     {id:5,name:"Emacs-BR",address:"https://t.me/emacswiki"}
 
 ];
-
-
 
 function MapNameFacebook(props){
   return groupsFacebook.map(group=>
@@ -60,12 +56,6 @@ function MapTelegram(props){
 </div>);
 
 }
-
-
-
-
-
-
 function Timeline(){
 
 return(
@@ -76,12 +66,7 @@ return(
      <MapTelegram></MapTelegram>
 
 </div>
-
-
-
-
     )
 };
-
 
 export default Timeline;
