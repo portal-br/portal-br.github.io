@@ -1,0 +1,97 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+@import url(http://weloveiconfonts.com/api/?family=entypo);
+
+[class*="entypo-"]:before {
+  font-family: 'entypo', sans-serif;
+}
+
+[class*="entypo-"] {
+  width: 1em;
+  height: 1em;
+}
+
+body {
+  background: #f3f5f4;
+  font-family: 'Raleway', sans-serif;}
+
+
+
+a:hover {
+  color: #777;
+}
+
+h1 {
+  font-family: 'Raleway', sans-serif;
+  letter-spacing: 1.5px;
+  color: rgb(10, 10, 10);
+  font-weight: 100;
+  font-size: 2.4em;
+  margin: 0;
+  border-bottom: 1px solid #777;
+  padding-bottom: 0.2em;
+}
+
+.timeline {
+  border-left: 0.25em solid #7e091d;
+  background: rgba(240, 236, 236, 0.945);
+  margin: 2em auto;
+  line-height: 1.4em;
+  padding: 1em;
+  padding-left: 3em;
+  list-style: none;
+  text-align: left;
+  border-radius: 0.9em;
+  min-width: 22em;
+}
+
+.event {
+  min-width: 20em;
+  width: 100%;
+  vertical-align: middle;
+  box-sizing: border-box;
+  position: relative;
+}
+
+.timeline .event:before,
+.timeline .event:after {
+  position: absolute;
+  display: block;
+  top: 1em;
+}
+
+.timeline .event:before {
+  left: -15em;
+  color: rgba(255, 255, 255, 0.8);
+  content: attr(data-date);
+  text-align: right;
+  font-weight: 100;
+  font-size: 0.9em;
+  min-width: 9em;
+}
+
+.timeline .event:after {
+  box-shadow: 0 0 0 0.2em #000000;
+  left: -3.5em;
+  background: #e6e9e8;
+  border-radius: 50%;
+  height: 0.75em;
+  width: 0.75em;
+  content: "";
+}
+
+.member-infos {
+  padding: 10px;
+  text-align: left;
+  position: relative;
+}
+
+.member-infos > h1 {
+  font-weight: bold;
+  font-size: 1.4em;
+}
+
+
+
+
+
+

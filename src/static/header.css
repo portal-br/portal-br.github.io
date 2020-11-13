@@ -1,0 +1,18 @@
+:root {
+    --logo_widht: 280px;
+    --logo_height: 300px;
+  }
+
+.Logo{
+    text-align: center;
+    align-items: center;
+    margin-bottom: 60px;
+}
+
+.logo{
+    width: var(--logo_widht);
+    height:var(--logo_height) ;
+    position: relative;
+    bottom: -20px;
+    align-items: center;
+}
