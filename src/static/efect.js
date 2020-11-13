@@ -1,6 +1,6 @@
 let resizeReset = function() {
-	w = canvasBody.width = window.innerWidth;
-	h = canvasBody.height = window.innerHeight;
+	let w = canvasBody.width = window.innerWidth;
+	let h = canvasBody.height = window.innerHeight;
 }
 
 const opts = { 
@@ -45,7 +45,7 @@ let linkPoints = function(point1, hubs){
 	}
 }
 
-Particle = function(xPos, yPos){ 
+const Particle = function(xPos, yPos){ 
 	this.x = Math.random() * w; 
 	this.y = Math.random() * h;
 	this.speed = opts.defaultSpeed + Math.random() * opts.variantSpeed; 
@@ -83,7 +83,7 @@ Particle = function(xPos, yPos){
 };
 
 function setup(){ 
-	particles = [];
+	const particles = [];
 	resizeReset();
 	for (let i = 0; i < opts.particleAmount; i++){
 		particles.push( new Particle() );
