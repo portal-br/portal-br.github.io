@@ -36,7 +36,7 @@ function MapNameFacebook(props){
   <div className="member-infos">
   <h1 className='member-title'>{group.name}</h1>
   </div>
-  <a  className="btn btn-danger btn-lg" target="_blank" href={group.address} role="button">Participar</a>
+  <a  className="btn btn-danger btn-lg" target="_blank" rel="noopener noreferrer" href={group.address} role="button">Participar</a>
 </li>  
 </ul>
 </div>);
@@ -50,7 +50,7 @@ function MapTelegram(props){
   <div className="member-infos">
   <h1 className='member-title'>{group.name}</h1>
   </div>
-  <a  className="btn btn-danger btn-lg" target="_blank" href={group.address} role="button">Participar </a>
+  <a  className="btn btn-danger btn-lg" target="_blank" rel="noopener noreferrer" href={group.address} role="button">Participar </a>
 </li>  
 </ul>
 </div>);
