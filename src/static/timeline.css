@@ -20,10 +20,10 @@ a:hover {
   color: #777;
 }
 
-h1 {
+h1.member-infos, h1.member-title {
   font-family: 'Raleway', sans-serif;
   letter-spacing: 1.5px;
-  color: rgb(10, 10, 10);
+  color: rgb(236, 233, 233);
   font-weight: 100;
   font-size: 2.4em;
   margin: 0;
@@ -33,8 +33,7 @@ h1 {
 
 .timeline {
   border-left: 0.25em solid #7e091d;
-  background: rgba(240, 236, 236, 0.945);
-  margin: 2em auto;
+  background: rgba(22, 22, 22, 0.945);
   line-height: 1.4em;
   padding: 1em;
   padding-left: 3em;

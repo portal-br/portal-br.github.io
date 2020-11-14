@@ -6,6 +6,8 @@ function Header(){
         <div className="container d-flex justify-content-center">
             <nav className="Logo">
                  <img className="logo" src={logo} alt="Logo" />
+                 
+
             </nav>
         </div>
 
